@@ -2,6 +2,20 @@
 
 =encoding utf8
 
+=for HTML <a href="https://www.github.com/briandfoy/distribution-cpanmodules/actions?query=workflow%3Amacos"><img src="https://www.github.com/briandfoy/distribution-cpanmodules/workflows/macos/badge.svg"></a>
+
+=for HTML <a href="https://www.github.com/briandfoy/distribution-cpanmodules/actions?query=workflow%3Aubuntu"><img src="https://www.github.com/briandfoy/distribution-cpanmodules/workflows/ubuntu/badge.svg"></a>
+
+=for HTML <a href="https://www.github.com/briandfoy/distribution-cpanmodules/actions?query=workflow%3Awindows"><img src="https://www.github.com/briandfoy/distribution-cpanmodules/workflows/windows/badge.svg"></a>
+
+=for HTML <a href='https://ci.appveyor.com/project/briandfoy/distribution-cpanmodules'><img src='https://ci.appveyor.com/api/projects/status/ltw06a7ows124h3o?svg=true'></a>
+
+=for HTML <a href='https://coveralls.io/github/briandfoy/distribution-cpanmodules?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/distribution-cpanmodules/badge.svg?branch=master' alt='Coverage Status' /></a>
+
+=for HTML <a href="https://github.com/briandfoy/distribution-cpanmodules/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/Distribution-cpanmodules.svg" /></a>
+
+=for HTML <a href="https://metacpan.org/pod/Distribution::cpanmodules"><img src="https://img.shields.io/cpan/v/Distribution-cpanmodules.svg" /></A>
+
 =head1 The Distribution::cpanmodules module
 
 This is the I<README> for the L<Distribution::cpanmodules> Perl module.
