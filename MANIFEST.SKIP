@@ -13,3 +13,5 @@ nytprof
 \bChanges\s\d
 \.icloud$
 \A\.github\b
+
+.downstream.json
